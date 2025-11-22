@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+header a{
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    margin: 5px;
+}
+header b {
+    color: darkblue;
+
+}
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    color: blue;
+}
+footer p{
+    background-color: lightgreen;
+}
+.q {
+    background-color: rgba(194, 54, 54, 0.788);
+    border-radius: 10px;
+}
+h2 {
+    color: blue;
+}
+.z {
+    border-radius: 30px;
+    border: 2px solid lightblue;
+}
